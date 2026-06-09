@@ -1,0 +1,45 @@
+{
+    "class_id": "com-snaplogic-snaps-ad-adbasicauth",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SL-Support"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Test"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "domainName": {
+                "value": "snaplogic"
+            },
+            "password": {
+                "fp": "x/ekQvGXiLXn5G5Js0JQ/Vk6GKxoIfYOQWRu4fMA3uI=",
+                "key": "account-autogen",
+                "sym_iv": "3N/iYVcml5Q2srKHZ2ePxw==",
+                "sym_key": "WXCyFcYJYd3456raAi6s/0Ovg7O5vNG91pBU4YB/1fdO168jZfOJG6sw0P8E4gpat7Gi3dPSIWZE1RslLKxgJRcHhUNiV4K7T/LQtt3nxnPNXCyauy9eZo2uGgccEWsQgbVX3tvoivTkeF4kXv4AWgy5Uo2wMKPN3innf/N56fPcy8vt18og3vsuD4HZt2gt7CxG+AMZFGGVShKRbHNC36R+n2J0MDPmBuc9vPTOL1pKwQmYKZNrqOX/gJPxSmqFNeEpW8zVHUORXeBgx8iKm3z+qpwsx25vZuKBh5Y69IRNQr9hs+p4yPtN7FrjOYSx1DK5hZDOhj68B1nUF+nLeukEQRmrANdutNbh3rKVGyk86FNCtdn7MMTXu3yop0ejeaeN7V1I9U6J/ojlwH0uhRqwGYLhCQ9jzDZgJRQvtA21E1UplNA3JB6gPjzuYv0Nm0oAUGZuMxUDSLI501SlxKGUdedc2rI5dhzwXxnm7aePSviHp7ET0e9KHBRWN00plkoPDVSQT4TogoIqPZeDpoWbOLAPdkudsRfgo+d+x+P+aRWbBepKWpqcSXME1SoFoQqVIak/vZwfolXUH+Q7mk+Sde8/P6a0XzEX5YMtsGByPrjp++BIK/k2Ybr0YelqYzpl1Fwc2yJJt6RfeNd8nM6f3EsDE10/B2rGRtPXhSw=",
+                "value": "czJ6KBhbTJn3zlS9NoqOmA=="
+            },
+            "port": {
+                "value": 389
+            },
+            "referral": {
+                "value": "Automatically follow any referrals"
+            },
+            "serverUri": {
+                "value": "ldap://some_ldap_hostname.com"
+            },
+            "trustAllCerts": {
+                "value": false
+            },
+            "username": {
+                "value": "Test"
+            }
+        },
+        "view_serial": 100
+    }
+}
